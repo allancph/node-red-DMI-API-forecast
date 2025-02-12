@@ -1,3 +1,7 @@
+# Modified for moving boat.. Request update every 1 hours or 5 nm of movement
+
+
+
 # node-red-DMI-API-forecast
 Node-Red flow to retrieve a 5 day weather forecast from DMI, Danish Meteorological Institute
 
