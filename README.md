@@ -2,7 +2,8 @@
 
 Request update every 1 hours or 5 nm of movement
 
-https://github.com/allancph/node-red-DMI-API-forecast/blob/main/Sk%C3%A6rmbillede%202025-02-12%20kl.%2015.09.06.png
+
+<img src=https://github.com/allancph/node-red-DMI-API-forecast/blob/main/Sk%C3%A6rmbillede%202025-02-12%20kl.%2015.09.06.png width="50%" height="50%" />
 
 # node-red-DMI-API-forecast
 Node-Red flow to retrieve a 5 day weather forecast from DMI, Danish Meteorological Institute
